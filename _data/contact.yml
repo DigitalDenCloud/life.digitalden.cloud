@@ -8,9 +8,9 @@
   url: "https://docs.digitalden.cloud"
   icon: "fas fa-book"
 
-- type: linkedin
-  icon: 'fab fa-linkedin'
-  url: 'https://www.linkedin.com/in/digitalden/'
+# - type: linkedin
+#   icon: 'fab fa-linkedin'
+#   url: 'https://www.linkedin.com/in/digitalden/'
 
 - type: youtube
   icon: "fab fa-youtube"
@@ -19,3 +19,7 @@
 - title: "Contact"
   url: "https://digitalden.cloud/#contact"
   icon: "fas fa-envelope"
+
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true

@@ -203,13 +203,40 @@ This study is conducted within the context of my current lifestyle and normal tr
 - Average sleep duration is approximately eight hours per night  
 - Daily activity averages around ten thousand steps  
 - Football is played once per week as a high intensity 11 a side Sunday league match lasting approximately 90 minutes  
-- Due to the intensity of this session, Mondays are typically taken as a recovery day  
+- Due to the intensity of this session, Mondays are typically taken as a recovery day 
+
+#### Supplement background (non-variable)
+
+In addition to creatine, the following supplements are part of my existing routine and are not introduced, removed, or adjusted for the purpose of this study.
+
+- **Magnesium**  
+  Supports normal muscle function and neuromuscular signalling.
+
+- **Vitamin D**  
+  Involved in bone health, immune function, and hormonal regulation.
+
+- **Omega 3**  
+  Contributes to cardiovascular health and normal inflammatory balance.
+
+- **Vitamin B12**  
+  Supports red blood cell formation and nervous system function.
+
+- **Zinc**  
+  Involved in immune function, hormone production, and cellular repair.
+
+- **Lion’s mane**  
+  Commonly used for cognitive support and nervous system health.
+
+- **Turmeric**  
+  Contains curcumin, which is associated with antioxidant and anti inflammatory activity.
+
+These supplements are treated as background health support rather than performance variables and are kept consistent throughout the study period.
 
 > **Training and caffeine context**  
 > Training sessions are typically performed in a fasted state with a single filter coffee beforehand. Coffee intake is kept broadly consistent, with the first coffee prepared at home in the morning. Additional coffee consumption later in the day is not treated as a variable.
 {: .prompt-info }
 
-These factors are maintained to ensure that any observed changes are evaluated within the context of normal training conditions rather than artificially optimised ones.
+All lifestyle and training factors outlined in this section are intentionally kept stable to ensure that observed changes reflect typical training conditions rather than deliberate optimisation.
 
 ---
 

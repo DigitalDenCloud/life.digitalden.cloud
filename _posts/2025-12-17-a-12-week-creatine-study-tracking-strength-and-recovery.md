@@ -19,6 +19,24 @@ This study focuses on tracking measurable performance outcomes under normal trai
 
 ---
 
+### Framing Expectations
+
+> **Expectation framing**  
+> Creatine is evaluated here as a factor that may improve training consistency, repeatability, and recovery rather than as a guarantee of constant or immediate progression.
+{: .prompt-tip }
+
+This study does not assume that creatine will produce dramatic or immediate strength increases.
+
+Over the past year, improvements in diet quality, consistency, and recovery have coincided with significant strength gains and multiple lifetime personal records. At a stable bodyweight of approximately 78 kg, this represents the strongest and best conditioned period of training to date.
+
+The purpose of this study is not to initiate progress from a suboptimal baseline, but to assess whether creatine supports continued progression once fundamental variables are already well controlled.
+
+Creatine is evaluated as a factor that may improve training quality rather than guarantee progression. Improved repeatability of heavy sets, better tolerance to training stress, and fewer stalled weeks are treated as meaningful outcomes.
+
+Creatine is not expected to override fatigue or force personal records. Its potential value lies in supporting training consistency and recovery in a way that allows existing upward momentum to continue across the 12 week study period.
+
+---
+
 ### Study Objective
 
 The objective of this study is to evaluate whether creatine supplementation produces a measurable improvement in strength performance and recovery within the context of an already consistent training and lifestyle setup.
@@ -37,7 +55,7 @@ To support these objectives, training structure, nutrition habits, sleep pattern
 > The goal of the study is to determine whether creatine meaningfully supports progressive overload and strength progression, including the ability to push training performance further, when foundational habits are already in place.
 {: .prompt-tip }
 
-
+---
 
 ### Prior Creatine Use and Rationale
 
